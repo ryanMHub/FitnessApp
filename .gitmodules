@@ -1,0 +1,6 @@
+[submodule "android-client"]
+	path = android-client
+	url = https://github.com/ryanMHub/FitnessApp-android-client.git
+[submodule "react-client"]
+	path = react-client
+	url = https://github.com/ryanMHub/FitnessApp-react-client.git
