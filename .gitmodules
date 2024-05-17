@@ -4,3 +4,6 @@
 [submodule "react-client"]
 	path = react-client
 	url = https://github.com/ryanMHub/FitnessApp-react-client.git
+[submodule "spring-backend"]
+	path = spring-backend
+	url = https://github.com/ryanMHub/FitnessApp-springboot-backend.git
