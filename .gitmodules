@@ -7,3 +7,6 @@
 [submodule "spring-backend"]
 	path = spring-backend
 	url = https://github.com/ryanMHub/FitnessApp-springboot-backend.git
+[submodule "android-client"]
+	path = android-client
+	url = https://github.com/ryanMHub/FitnessApp-android-client.git
